@@ -1,0 +1,4 @@
+What are the things involved in internet? What is IP and Port?
+What is HTTP and HTTPS ? What is Client and Server ?
+Difference between web page and web API
+What are REST APIs? What methods are supported in REST APIs?
